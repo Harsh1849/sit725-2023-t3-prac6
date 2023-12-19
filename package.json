@@ -1,0 +1,34 @@
+{
+  "name": "sit725-2023-t3-prac6",
+  "version": "1.0.0",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsh1849/sit725-2023-t3-prac6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harsh1849/sit725-2023-t3-prac6/issues"
+  },
+  "homepage": "https://github.com/Harsh1849/sit725-2023-t3-prac6#readme",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "express": "^4.18.2",
+    "init": "^0.1.2",
+    "install": "^0.13.0",
+    "mocha": "^10.2.0",
+    "mongo": "^0.1.0",
+    "mongodb": "^6.3.0",
+    "npm": "^10.2.5",
+    "request": "^2.88.2"
+  },
+  "description": ""
+}
